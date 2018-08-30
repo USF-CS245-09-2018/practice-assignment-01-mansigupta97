@@ -1,2 +1,3 @@
 # PracticeAssignment01
-In
+
+Completed assignment
